@@ -1123,9 +1123,9 @@ footer span {
   .btn { padding: 0.75rem 1.4rem; font-size: 0.85rem; }
 
   .about-grid { grid-template-columns: 1fr; gap: 2rem; }
-  .about-image-wrap { max-width: 240px; margin: 0 auto 1.5rem; }
-  .about-badge { bottom: 0; right: -0.5rem; padding: 0.7rem; font-size: 0.72rem; }
-  .about-badge strong { font-size: 1.1rem; }
+  .about-image-wrap { width: 200px; max-width: 200px; margin: 0 auto 2rem; padding-bottom: 2rem; }
+  .about-badge { bottom: 0; right: 0; padding: 0.6rem 0.8rem; font-size: 0.7rem; }
+  .about-badge strong { font-size: 1rem; }
   .about-info-grid { grid-template-columns: 1fr 1fr; gap: 0.75rem; }
   .info-item { padding: 0.75rem; }
 
