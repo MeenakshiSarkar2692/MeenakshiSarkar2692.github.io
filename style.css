@@ -617,6 +617,7 @@ section {
   flex-shrink: 0;
 }
 
+.skill-pill:hover {
   background: rgba(124, 58, 237, 0.15);
   border-color: rgba(124, 58, 237, 0.4);
   color: var(--primary-light);
