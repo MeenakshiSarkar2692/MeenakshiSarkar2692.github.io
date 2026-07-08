@@ -611,7 +611,12 @@ section {
   transition: all 0.2s;
 }
 
-.skill-pill:hover {
+.skill-pill i {
+  font-size: 0.75rem;
+  color: var(--primary-light);
+  flex-shrink: 0;
+}
+
   background: rgba(124, 58, 237, 0.15);
   border-color: rgba(124, 58, 237, 0.4);
   color: var(--primary-light);
