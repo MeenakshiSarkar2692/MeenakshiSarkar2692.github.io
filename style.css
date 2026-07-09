@@ -386,23 +386,6 @@ section {
   display: block;
 }
 
-.about-badge {
-  position: absolute;
-  bottom: 0;
-  right: -1rem;
-  background: var(--gradient);
-  color: #fff;
-  padding: 1rem;
-  border-radius: 16px;
-  text-align: center;
-  font-weight: 700;
-  font-size: 0.8rem;
-  box-shadow: 0 8px 30px rgba(124, 58, 237, 0.5);
-  z-index: 2;
-}
-
-.about-badge strong { display: block; font-size: 1.5rem; }
-
 .about-text p {
   color: var(--muted);
   margin-bottom: 1.5rem;
